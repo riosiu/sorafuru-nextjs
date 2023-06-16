@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <div className="navbar bg-base-100 flex justify-between">
         <div>
-          <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+          <a className="btn btn-ghost normal-case text-xl">Sorafuru</a>
           <ul className="flex flex-row ml-3 gap-4">
             <li>
               <Link href={""}>Home</Link>
